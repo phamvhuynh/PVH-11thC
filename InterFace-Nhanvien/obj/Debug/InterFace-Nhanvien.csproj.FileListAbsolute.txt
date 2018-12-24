@@ -1,0 +1,8 @@
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\bin\Debug\InterFace-Nhanvien.exe.config
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\bin\Debug\InterFace-Nhanvien.exe
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\bin\Debug\InterFace-Nhanvien.pdb
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\obj\Debug\InterFace-Nhanvien.csprojResolveAssemblyReference.cache
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\obj\Debug\InterFace_Nhanvien.MainForm.resources
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\obj\Debug\InterFace-Nhanvien.csproj.GenerateResource.Cache
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\obj\Debug\InterFace-Nhanvien.exe
+C:\Users\pham huynh\Documents\SharpDevelop Projects\InterFace-Nhanvien\InterFace-Nhanvien\obj\Debug\InterFace-Nhanvien.pdb
