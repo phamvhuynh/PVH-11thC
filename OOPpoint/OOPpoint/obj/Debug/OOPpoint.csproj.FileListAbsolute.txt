@@ -1,0 +1,14 @@
+F:\demo\OOPpoint\OOPpoint\obj\Debug\OOPpoint.csprojResolveAssemblyReference.cache
+F:\demo\OOPpoint\OOPpoint\bin\Debug\OOPpoint.exe
+F:\demo\OOPpoint\OOPpoint\bin\Debug\OOPpoint.pdb
+F:\demo\OOPpoint\OOPpoint\obj\Debug\OOPpoint.exe
+F:\demo\OOPpoint\OOPpoint\obj\Debug\OOPpoint.pdb
+F:\demo\OOPpoint\OOPpoint\obj\Debug\OOPpoint.MainForm.resources
+F:\demo\OOPpoint\OOPpoint\obj\Debug\OOPpoint.csproj.GenerateResource.Cache
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\bin\Debug\OOPpoint.exe
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\bin\Debug\OOPpoint.pdb
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\obj\Debug\OOPpoint.csprojResolveAssemblyReference.cache
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\obj\Debug\OOPpoint.MainForm.resources
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\obj\Debug\OOPpoint.csproj.GenerateResource.Cache
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\obj\Debug\OOPpoint.exe
+C:\Users\pham huynh\Downloads\demo-master\OOPpoint\OOPpoint\obj\Debug\OOPpoint.pdb
